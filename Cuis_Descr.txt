@@ -1,84 +1,84 @@
-Italian
+Chicken
+Bottled beverages, including water, sodas, juices, etc.
+Eastern European
 Chinese
 American
-Pakistani
-Japanese
-Caribbean
-Seafood
 Pizza
-Indian
-Soul Food
+Italian
+Spanish
 Mexican
 Latin (Cuban, Dominican, Puerto Rican, South & Central American)
-Bagels/Pretzels
-Steak
-Korean
-Tapas
-Chinese/Japanese
-Hamburgers
-Vegetarian
-Turkish
-African
-Spanish
-CafÃ©/Coffee/Tea
-Greek
-Bakery
-Continental
-Brazilian
-Mediterranean
-Salads
-Thai
-Asian
-Pizza/Italian
-Donuts
-Delicatessen
-Jewish/Kosher
-Sandwiches
-Russian
-Vietnamese/Cambodian/Malaysia
-Other
-Sandwiches/Salads/Mixed Buffet
-Peruvian
-Tex-Mex
-Bottled beverages, including water, sodas, juices, etc.
-Irish
 French
-German
+Japanese
+Vietnamese/Cambodian/Malaysia
+Tapas
 Ice Cream, Gelato, Yogurt, Ices
-Middle Eastern
+Caribbean
+Brazilian
+Russian
+Sandwiches
+Tex-Mex
+Steak
+Bakery
+Vegetarian
+Seafood
+Bagels/Pretzels
+Delicatessen
+Asian
+CafÃ©/Coffee/Tea
 Juice, Smoothies, Fruit Salads
-Chicken
-Australian
-Bangladeshi
-Creole
-Hotdogs
-Soups
-Hotdogs/Pretzels
-English
-Hawaiian
-Pancakes/Waffles
-Scandinavian
-Filipino
-Californian
-Polish
-Barbecue
-Afghan
-Eastern European
-Cajun
-Chilean
+Jewish/Kosher
+Donuts
+Irish
+Middle Eastern
 Indonesian
-Egyptian
-Moroccan
-Ethiopian
+Indian
+African
+Pizza/Italian
+Hamburgers
+Greek
+Bangladeshi
+Sandwiches/Salads/Mixed Buffet
+Mediterranean
+Korean
+Continental
+Other
+Afghan
+Thai
+German
 Soups & Sandwiches
-Fruits/Vegetables
-Southwestern
-Nuts/Confectionary
-Armenian
-Chinese/Cuban
-Not Listed/Not Applicable
-Creole/Cajun
+Peruvian
+Creole
+Pancakes/Waffles
+Moroccan
 Portuguese
-Iranian
-Polynesian
+Chinese/Cuban
+Soul Food
+Filipino
+Chinese/Japanese
+Turkish
+Chilean
+Pakistani
+Hotdogs/Pretzels
+Barbecue
+Polish
+Ethiopian
+Australian
+Hotdogs
+Egyptian
 Czech
+Salads
+Cajun
+Nuts/Confectionary
+English
+Fruits/Vegetables
+Scandinavian
+Southwestern
+Polynesian
+Armenian
+Hawaiian
+Iranian
+Creole/Cajun
+Not Listed/Not Applicable
+Californian
+Soups
