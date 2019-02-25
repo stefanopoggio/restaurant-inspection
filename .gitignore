@@ -10,3 +10,7 @@ Datasets/*
 Cars_Evaluation.ipynb
 Contraceptive.ipynb
 dataMining-04-ex1-KMeans.ipynb
+Paolo.ipynb
+*.png
+*.dot
+iris_silhouette.ipynb
